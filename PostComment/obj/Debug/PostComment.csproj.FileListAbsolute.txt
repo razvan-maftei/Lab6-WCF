@@ -1,0 +1,14 @@
+C:\Users\raste\source\repos\PostComment\bin\Debug\PostComment.dll.config
+C:\Users\raste\source\repos\PostComment\bin\Debug\PostComment.dll
+C:\Users\raste\source\repos\PostComment\bin\Debug\PostComment.pdb
+C:\Users\raste\source\repos\PostComment\bin\Debug\EntityFramework.dll
+C:\Users\raste\source\repos\PostComment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\raste\source\repos\PostComment\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\raste\source\repos\PostComment\bin\Debug\EntityFramework.xml
+C:\Users\raste\source\repos\PostComment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\raste\source\repos\PostComment\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\raste\source\repos\PostComment\obj\Debug\PostComment.csprojAssemblyReference.cache
+C:\Users\raste\source\repos\PostComment\obj\Debug\PostComment.csproj.CoreCompileInputs.cache
+C:\Users\raste\source\repos\PostComment\obj\Debug\PostComment.csproj.CopyComplete
+C:\Users\raste\source\repos\PostComment\obj\Debug\PostComment.dll
+C:\Users\raste\source\repos\PostComment\obj\Debug\PostComment.pdb
